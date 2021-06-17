@@ -7,3 +7,5 @@ Hello! I'm Deepansh Verma👋
 - 📫 How to reach me: Twitter - [@DeepanshVerma30](https://twitter.com/DeepanshVerma30)
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: I watch a lot of movies.
+
+<img src="https://github-readme-stats.vercel.app/api?username=Deepansh-30&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
